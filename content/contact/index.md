@@ -9,24 +9,24 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        Please don't hesitate to get in touch if you're interested in volunteering for one of our studies, collaborating on a research project or simply curious about our work!
+      email: mrs@kcl.ac.uk
+      #phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 16 De Crespigny Park
+        city: London
+        #region: CA
+        postcode: 'SE5 8AF'
+        country: United Kingdom
+        country_code: UK
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        latitude: '51.470852555813394'
+        longitude: '-0.08945856931084234'
+      directions: Department of Forensic and Neurodevelopmental Sciences, IoPPN Main Building (Floor 1)
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
+      #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -43,7 +43,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '1'
 
@@ -56,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: IoPPN.jpg
           filters:
             brightness: 1
           parallax: false
