@@ -14,8 +14,8 @@ sections:
       #phone: 888 888 88 88
       address:
         street: 16 De Crespigny Park
-        city: London
-        #region: CA
+        city: Camberwell
+        region: London
         postcode: 'SE5 8AF'
         country: United Kingdom
         country_code: UK
