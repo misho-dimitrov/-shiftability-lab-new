@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: grainne-inaugural.png
           filters:
             brightness: 1
           parallax: false
