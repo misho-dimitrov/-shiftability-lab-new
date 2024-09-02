@@ -36,6 +36,19 @@ sections:
       view: card
       columns: '1'
   
+  - block: collection
+    content:
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
+      
   - block: markdown
     content:
       title:
@@ -55,19 +68,6 @@ sections:
       spacing:
         padding: ['20px', '20px', '20px', '20px']
       css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
   - block: markdown
     content:
