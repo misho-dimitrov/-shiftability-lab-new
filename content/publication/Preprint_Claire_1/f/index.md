@@ -36,8 +36,8 @@ abstract: Brain function is the dynamic output of coordinated excitatory and inh
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 featured: false
 
 #links:
