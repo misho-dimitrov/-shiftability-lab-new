@@ -50,10 +50,10 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: contain
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['20px', '20px', '20px', '20px']
       css_class: fullscreen
 
   - block: collection
