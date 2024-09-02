@@ -1,4 +1,6 @@
 ---
+weight: 10
+
 # Display name
 title: Gráinne McAlonan
 
