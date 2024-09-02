@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2024-09-02
 
 type: landing
 
@@ -8,32 +8,35 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome! A bit about us...
+        content: Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals. We are working with adults (ages 18 to 65) from various backgrounds and communities. We use drugs which target different chemical systems to understand how brain function is regulated. We call these studies ‘Shiftability’ studies because they measure what shifts or changes in the brain in response to a single dose of a drug. 
+        
+        
+        Magnetic Resonance Imaging (MRI) scanning is a safe way of producing detailed images of the brain using magnetism. It does not use any form of ionising radiation (unlike X-ray) or radioactive substances (unlike PET imaging). Electroencephalography (EEG) is another safe way to study the brain by recording brain signals moment by moment. We use these tools to capture the response to single doses of drugs which briefly shift brain signalling. The drugs used in our projects have been extensively tested and found to be generally safe. For example, they act on the serotonin (5-HT) brain chemical system (psilocybin and citalopram), the GABA system (clobazam and arbaclofen), the opioid system (tianeptine) and/or have multiple brain targets (cannabidiol).
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: synapse.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Our collaborations
+        content: 'As part of the AIMS-2-TRIALS project (https://www.aims-2-trials.eu/), we collaborate with an international network of scientists to gain fresh insights regarding the structure, function and chemistry of neurodivergent conditions such as autism. Everyone who is neurodivergent is different and we want to understand what biology is shared and what is unique to each individual.'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: brain_network.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Making a difference
+        content: 'We hope that our projects will expedite the discovery and development of novel strategies to tackle some of the difficulties that neurodivergent (e.g. autistic) people experience daily. We hope that this provides more options for people to support their mental health and well-being while also preserving every person’s strengths and skills.'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: grainne-inaugural.png
             filters:
               brightness: 0.5
           position: center
@@ -41,7 +44,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: Get in touch!
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
