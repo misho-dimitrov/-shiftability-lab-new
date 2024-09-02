@@ -1,0 +1,16 @@
+.slider .slide-content {
+  font-size: 1.2rem; /* Default font size */
+}
+
+/* Responsive adjustment */
+@media (max-width: 768px) {
+  .slider .slide-content {
+    font-size: 1rem; /* Reduced font size for tablets and mobiles */
+  }
+}
+
+@media (max-width: 480px) {
+  .slider .slide-content {
+    font-size: 0.9rem; /* Further reduced font size for small mobiles */
+  }
+}
