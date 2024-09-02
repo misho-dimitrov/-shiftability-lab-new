@@ -1,12 +1,26 @@
 ---
-title: "An example preprint / working paper"
+title: "The dynamically neurodiverse human brain: Measuring excitatory-inhibitory dynamics and identifying homeostatic differences in autistic and non-autistic people"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Claire L. Ellis
+- Jumana Ahmad
+- Alexia Zoumpoulaki
+- Mihail Dimitrov
+- Hester Velthuis
+- Andreia C. Pereira
+- Nichol M. L. Wong
+- Francesca M. Ponteduro
+- Lukasz Kowalewski
+- Alison Leonard
+- Pilar Garcés
+- Qiyun Huang
+- Eileen Daly
+- Declan Murphy
+- Grainne McAlonan
+date: "2023-06-27T00:00:00Z"
+doi: "10.1101/2023.06.19.23291507"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2024-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,10 +31,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Brain function is the dynamic output of coordinated excitatory and inhibitory (E-I) activity. E-I alterations, arising from differences in excitatory glutamate and inhibitory GABA pathways, are implicated in the development and heterogeneity of multiple neurodevelopmental conditions, such as autism; and are consequently targets for pharmacological support options. Yet, E-I measures of neurotransmitter levels or receptors in the living human brain (such as Magnetic Resonance Spectroscopy or Positron Emission Tomography) are expensive and/or invasive and do not capture dynamics. The determine if a candidate metric captures a neurosignalling system, the system must be challenged and changes observed objectively. This is basis of animal study designs. The aperiodic 1/f exponent of the EEG power spectrum is sensitive to E-I perturbations in animals but, more work is needed to translate to humans. Therefore, we tested the hypotheses that i) the aperiodic 1/f exponent of resting-state EEG in humans changes following a pharmacological E-I challenge with arbaclofen, a GABAB receptor agonist; and ii) dynamic responsivity to GABAergic challenge is different in a neurodevelopmental condition associated with E-I differences, namely autism. As predicted, in both groups the aperiodic 1/f exponent significantly increased following a high (30mg) dose of arbaclofen. However, an aperiodic exponent increase was also elicited at a lower (15mg) dose of arbaclofen in autistic but not non-autistic individuals. Hence, in humans, the aperiodic 1/f exponent captures E-I dynamics and autistic brains are dynamically different compared to non-autistic brains. We suggest that our results can be explained by homeostatic differences E-I regulation between groups.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -28,9 +42,9 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: https://www.medrxiv.org/content/10.1101/2023.06.19.23291507v1.full-text
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: '#'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -41,7 +55,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
@@ -61,8 +75,8 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+##Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
