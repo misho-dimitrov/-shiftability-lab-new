@@ -40,17 +40,17 @@ tags:
 - Source Themes
 featured: false
 
-links:
-- name: Custom Link
-  url: https://www.medrxiv.org/content/10.1101/2023.06.19.23291507v1.full-text
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#links:
+#- name: medRxiv Link
+#  url: https://www.medrxiv.org/content/10.1101/2023.06.19.23291507v1.full-text
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_code: 'http://example/org'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
