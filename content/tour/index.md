@@ -17,6 +17,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
+          fit: contain
           color: '#666'
       - title: Our collaborations
         content: 'As part of the AIMS-2-TRIALS project (https://www.aims-2-trials.eu/), we collaborate with an international network of scientists to gain fresh insights regarding the structure, function and chemistry of neurodivergent conditions such as autism. Everyone who is neurodivergent is different and we want to understand what biology is shared and what is unique to each individual.'
@@ -27,6 +28,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
+          fit: contain
           color: '#555'
       - title: Making a difference
         content: 'We hope that our projects will expedite the discovery and development of novel strategies to tackle some of the difficulties that neurodivergent (e.g. autistic) people experience daily. We hope that this provides more options for people to support their mental health and well-being while also preserving every person’s strengths and skills.'
@@ -37,6 +39,7 @@ sections:
             filters:
               brightness: 0.5
           position: center
+          fit: contain
           color: '#333'
         link:
           icon: graduation-cap
